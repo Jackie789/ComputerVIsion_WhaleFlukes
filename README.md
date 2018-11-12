@@ -1,7 +1,10 @@
 # ComputerVIsion_WhaleFlukes
 We seek to differentiate whale individuals by the patterning on their flukes. 
 
-This dataset has been downloaded from a Kaggle Dataset, which can be found at https://www.kaggle.com/c/whale-categorization-playground. 
+This dataset has been downloaded from a Kaggle Dataset, which can be found [here]  (https://www.kaggle.com/c/whale-categorization-playground). 
+
+
+![Example Whale Fluke](https://github.com/Jackie789/ComputerVIsion_WhaleFlukes/assets/0ae14ed7.jpg "Example Whale Fluke Image")
 
 ## Introduction
 
